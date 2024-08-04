@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--stadist-->
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nvargas24&show_icons=true&layout=compact&theme=tokyonight" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=nvargas24&show_icons=true&theme=tokyonight" alt="GitHub Stats">
